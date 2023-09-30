@@ -2,8 +2,8 @@
 
 I have some of my Github stats and here they are.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fe-Ti&theme=monokai)
 <!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fe-Ti&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fe-Ti&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fe-Ti&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fe-Ti&theme=monokai)
